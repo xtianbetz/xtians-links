@@ -4,30 +4,38 @@
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>Xtian&#8217;s Links</title>
-<date>2020-05-22</date>
+<date>2020-05-23</date>
 </info>
 <simpara>A curated collection of links to various bits of content.</simpara>
 <section xml:id="_business_and_management_theory">
 <title>Business and Management Theory</title>
 <itemizedlist>
 <listitem>
-<simpara><link xl:href="https://apenwarr.ca/log/?m=201909">What do executives do, anyway?</link> on the role of executives in medium/large companiesand building culture in smaller ones.</simpara>
+<simpara><link xl:href="https://apenwarr.ca/log/?m=201909">What do executives do, anyway?</link> on the role of executives in medium/large companies and building culture in smaller ones.</simpara>
 </listitem>
 </itemizedlist>
 </section>
-<section xml:id="_programming">
-<title>Programming</title>
+<section xml:id="_hardware_and_software_engineering">
+<title>Hardware and Software Engineering</title>
 <itemizedlist>
 <listitem>
 <simpara><link xl:href="https://github.com/xtianbetz?tab=stars">xtianbetz starred repos</link> my github starred repos</simpara>
 </listitem>
 </itemizedlist>
-</section>
 <section xml:id="_programming_language_theory">
 <title>Programming Language Theory</title>
 <itemizedlist>
 <listitem>
-<simpara><link xl:href="https://blog.logrocket.com/async-await-is-the-wrong-abstraction/">https://blog.logrocket.com/async-await-is-the-wrong-abstraction/</link>[</simpara>
+<simpara><link xl:href="https://blog.logrocket.com/async-await-is-the-wrong-abstraction/">async/await is the wrong abstraction</link> why the async..await pattern in Javascript is broken</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/">Notes on structured concurrency, or: Go statement considered harmful</link> outlines the problems with managing concurrency and flow control and proposed solution.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="http://250bpm.com/blog:71">Structured Concurrency</link> A different but extremely similar take on how to build better concurrency primitivies in programming languages.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://vorpus.org/blog/timeouts-and-cancellation-for-humans/">Timeouts and cancellation for humans</link> why concurrent APIs need the concept of cancellation tokens, and why even this approach has shortcomings.</simpara>
 </listitem>
 </itemizedlist>
 </section>
@@ -37,6 +45,21 @@
 <listitem>
 <simpara><link xl:href="https://xtianbetz.github.io/arm-mcu-makefile-guide/">ARM MCU Makefile Guide</link> my own guide to learning MCU development with Linux.</simpara>
 </listitem>
+<listitem>
+<simpara><link xl:href="https://rust-embedded.github.io/book/">The Embedded Rust Book</link> Embedded programming with Rust</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.youtube.com/watch?v=pj2Rk-ftcWA">Writing an Embedded Rust HAL from scratch</link> In-depth tutorial on building a Hardware Abstraction Layer (HAL) for a new microcontroller (MCU).</simpara>
+</listitem>
 </itemizedlist>
+</section>
+<section xml:id="_security">
+<title>Security</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.platformsecuritysummit.com/2019/speaker/chen/">Guarding Against Physical Attacks: The Xbox One Story</link> excellent talk describing various cutting-edge hardware features of the Xbox One platform that prevent physical attacks.</simpara>
+</listitem>
+</itemizedlist>
+</section>
 </section>
 </article>
