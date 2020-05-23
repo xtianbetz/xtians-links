@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Xtian&#8217;s Links</title>
+<date>2020-05-22</date>
+</info>
+<simpara>A curated collection of links to various bits of content.</simpara>
+<section xml:id="_business_and_management_theory">
+<title>Business and Management Theory</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://apenwarr.ca/log/?m=201909">What do executives do, anyway?</link> on the role of executives in medium/large companiesand building culture in smaller ones.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_programming">
+<title>Programming</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://github.com/xtianbetz?tab=stars">xtianbetz starred repos</link> my github starred repos</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_programming_language_theory">
+<title>Programming Language Theory</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://blog.logrocket.com/async-await-is-the-wrong-abstraction/">https://blog.logrocket.com/async-await-is-the-wrong-abstraction/</link>[</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_embedded_programming">
+<title>Embedded Programming</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://xtianbetz.github.io/arm-mcu-makefile-guide/">ARM MCU Makefile Guide</link> my own guide to learning MCU development with Linux.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</article>

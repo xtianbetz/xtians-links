@@ -1,0 +1,31 @@
+= Xtian's Links
+:toc: left
+
+A curated collection of links to various bits of content.
+
+== Business and Management Theory
+
+- https://apenwarr.ca/log/?m=201909[What do executives do, anyway?] on the role of executives in medium/large companies and building culture in smaller ones.
+
+== Hardware and Software Engineering
+
+- https://github.com/xtianbetz?tab=stars[xtianbetz starred repos] my github starred repos
+
+=== Programming Language Theory
+
+- https://blog.logrocket.com/async-await-is-the-wrong-abstraction/[async/await is the wrong abstraction] why the async..await pattern in Javascript is broken
+- https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/[Notes on structured concurrency, or: Go statement considered harmful] outlines the problems with managing concurrency and flow control and proposed solution.
+- http://250bpm.com/blog:71[Structured Concurrency] A different but extremely similar take on how to build better concurrency primitivies in programming languages.
+- https://vorpus.org/blog/timeouts-and-cancellation-for-humans/[Timeouts and cancellation for humans] why concurrent APIs need the concept of cancellation tokens, and why even this approach has shortcomings.
+
+=== Embedded Programming
+
+- https://xtianbetz.github.io/arm-mcu-makefile-guide/[ARM MCU Makefile Guide] my own guide to learning MCU development with Linux.
+- https://rust-embedded.github.io/book/[The Embedded Rust Book] Embedded programming with Rust
+- https://www.youtube.com/watch?v=pj2Rk-ftcWA[Writing an Embedded Rust HAL from scratch] In-depth tutorial on building a Hardware Abstraction Layer (HAL) for a new microcontroller (MCU).
+
+=== Security
+
+- https://www.platformsecuritysummit.com/2019/speaker/chen/[Guarding Against Physical Attacks: The Xbox One Story] excellent talk describing various cutting-edge hardware features of the Xbox One platform that prevent physical attacks.
+
+
