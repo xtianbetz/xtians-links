@@ -4,7 +4,7 @@
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>Xtian&#8217;s Links</title>
-<date>2020-05-23</date>
+<date>2020-05-24</date>
 </info>
 <simpara>A curated collection of links to various bits of content.</simpara>
 <section xml:id="_business_and_management_theory">
@@ -22,6 +22,20 @@
 <simpara><link xl:href="https://github.com/xtianbetz?tab=stars">xtianbetz starred repos</link> my github starred repos</simpara>
 </listitem>
 </itemizedlist>
+<section xml:id="_writings_on_software_engineering">
+<title>Writings on Software Engineering</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson">The Hard Thing About Software Development</link> "&#8230;&#8203; Why you should aim for "deep context", and why the price for (some) remote developers is dropping to zero"</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://blog.pragmaticengineer.com/the-product-minded-engineer/">The Product-Minded Software Engineer</link> on the qualities of product-focused engineers.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="http://www.paulgraham.com/head.html">Holding a Program in One&#8217;s Head</link> classic essay on the importance of a distraction-free work environment.</simpara>
+</listitem>
+</itemizedlist>
+</section>
 <section xml:id="_programming_language_theory">
 <title>Programming Language Theory</title>
 <itemizedlist>
@@ -57,7 +71,7 @@
 <title>Security</title>
 <itemizedlist>
 <listitem>
-<simpara><link xl:href="https://www.platformsecuritysummit.com/2019/speaker/chen/">Guarding Against Physical Attacks: The Xbox One Story</link> excellent talk describing various cutting-edge hardware features of the Xbox One platform that prevent physical attacks.</simpara>
+<simpara><link xl:href="https://www.platformsecuritysummit.com/2019/speaker/chen/">Guarding Against Physical Attacks: The Xbox One Story</link> excellent talk describing various cutting-edge software and hardware features of the Xbox One platform that prevent physical attacks.</simpara>
 </listitem>
 </itemizedlist>
 </section>

@@ -11,6 +11,12 @@ A curated collection of links to various bits of content.
 
 - https://github.com/xtianbetz?tab=stars[xtianbetz starred repos] my github starred repos
 
+=== Writings on Software Engineering
+
+- https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson[The Hard Thing About Software Development] "... Why you should aim for "deep context", and why the price for (some) remote developers is dropping to zero"
+- https://blog.pragmaticengineer.com/the-product-minded-engineer/[The Product-Minded Software Engineer] on the qualities of product-focused engineers.
+- http://www.paulgraham.com/head.html[Holding a Program in One's Head] classic essay on the importance of a distraction-free work environment.
+
 === Programming Language Theory
 
 - https://blog.logrocket.com/async-await-is-the-wrong-abstraction/[async/await is the wrong abstraction] why the async..await pattern in Javascript is broken
@@ -26,6 +32,6 @@ A curated collection of links to various bits of content.
 
 === Security
 
-- https://www.platformsecuritysummit.com/2019/speaker/chen/[Guarding Against Physical Attacks: The Xbox One Story] excellent talk describing various cutting-edge hardware features of the Xbox One platform that prevent physical attacks.
+- https://www.platformsecuritysummit.com/2019/speaker/chen/[Guarding Against Physical Attacks: The Xbox One Story] excellent talk describing various cutting-edge software and hardware features of the Xbox One platform that prevent physical attacks.
 
 

@@ -13,6 +13,22 @@ Hardware and Software Engineering
 -   [xtianbetz starred repos](https://github.com/xtianbetz?tab=stars) my
     github starred repos
 
+Writings on Software Engineering
+--------------------------------
+
+-   [The Hard Thing About Software
+    Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson)
+    "…​ Why you should aim for "deep context", and why the price for
+    (some) remote developers is dropping to zero"
+
+-   [The Product-Minded Software
+    Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+    on the qualities of product-focused engineers.
+
+-   [Holding a Program in One’s
+    Head](http://www.paulgraham.com/head.html) classic essay on the
+    importance of a distraction-free work environment.
+
 Programming Language Theory
 ---------------------------
 
@@ -54,5 +70,5 @@ Security
 
 -   [Guarding Against Physical Attacks: The Xbox One
     Story](https://www.platformsecuritysummit.com/2019/speaker/chen/)
-    excellent talk describing various cutting-edge hardware features of
-    the Xbox One platform that prevent physical attacks.
+    excellent talk describing various cutting-edge software and hardware
+    features of the Xbox One platform that prevent physical attacks.
