@@ -13,8 +13,39 @@ Hardware and Software Engineering
 -   [xtianbetz starred repos](https://github.com/xtianbetz?tab=stars) my
     github starred repos
 
-Writings on Software Engineering
---------------------------------
+Version Control
+---------------
+
+-   [Reverting a faulty
+    merge](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt)
+    best explanation I have ever seen for how to properly revert a
+    faulty merge.
+
+Build Systems
+-------------
+
+-   [GNU Make vs BSD
+    Make](http://alfix.gitlab.io/bsd/gnu/coding/2017/01/28/gnu-make-vs-bsd-make.html)
+    good basic Makefile examples with examples of "automatic" variables
+    that can expand to multiple inputs/outputs.
+
+Embedded Programming
+--------------------
+
+-   [ARM MCU Makefile
+    Guide](https://xtianbetz.github.io/arm-mcu-makefile-guide/) my own
+    guide to learning MCU development with Linux.
+
+-   [The Embedded Rust Book](https://rust-embedded.github.io/book/)
+    Embedded programming with Rust
+
+-   [Writing an Embedded Rust HAL from
+    scratch](https://www.youtube.com/watch?v=pj2Rk-ftcWA) In-depth
+    tutorial on building a Hardware Abstraction Layer (HAL) for a new
+    microcontroller (MCU).
+
+Essays about Software Engineering
+---------------------------------
 
 -   [The Hard Thing About Software
     Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson)
@@ -49,21 +80,6 @@ Programming Language Theory
     humans](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
     why concurrent APIs need the concept of cancellation tokens, and why
     even this approach has shortcomings.
-
-Embedded Programming
---------------------
-
--   [ARM MCU Makefile
-    Guide](https://xtianbetz.github.io/arm-mcu-makefile-guide/) my own
-    guide to learning MCU development with Linux.
-
--   [The Embedded Rust Book](https://rust-embedded.github.io/book/)
-    Embedded programming with Rust
-
--   [Writing an Embedded Rust HAL from
-    scratch](https://www.youtube.com/watch?v=pj2Rk-ftcWA) In-depth
-    tutorial on building a Hardware Abstraction Layer (HAL) for a new
-    microcontroller (MCU).
 
 Security
 --------

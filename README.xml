@@ -4,7 +4,7 @@
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>Xtian&#8217;s Links</title>
-<date>2020-05-24</date>
+<date>2020-06-20</date>
 </info>
 <simpara>A curated collection of links to various bits of content.</simpara>
 <section xml:id="_business_and_management_theory">
@@ -22,8 +22,40 @@
 <simpara><link xl:href="https://github.com/xtianbetz?tab=stars">xtianbetz starred repos</link> my github starred repos</simpara>
 </listitem>
 </itemizedlist>
-<section xml:id="_writings_on_software_engineering">
-<title>Writings on Software Engineering</title>
+<section xml:id="_version_control">
+<title>Version Control</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt">Reverting
+a faulty merge</link> best explanation I have ever seen for how to properly revert
+a faulty merge.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_build_systems">
+<title>Build Systems</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="http://alfix.gitlab.io/bsd/gnu/coding/2017/01/28/gnu-make-vs-bsd-make.html">GNU Make vs BSD Make</link> good basic Makefile examples with examples of "automatic" variables that can expand to multiple inputs/outputs.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_embedded_programming">
+<title>Embedded Programming</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://xtianbetz.github.io/arm-mcu-makefile-guide/">ARM MCU Makefile Guide</link> my own guide to learning MCU development with Linux.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://rust-embedded.github.io/book/">The Embedded Rust Book</link> Embedded programming with Rust</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.youtube.com/watch?v=pj2Rk-ftcWA">Writing an Embedded Rust HAL from scratch</link> In-depth tutorial on building a Hardware Abstraction Layer (HAL) for a new microcontroller (MCU).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_essays_about_software_engineering">
+<title>Essays about Software Engineering</title>
 <itemizedlist>
 <listitem>
 <simpara><link xl:href="https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson">The Hard Thing About Software Development</link> "&#8230;&#8203; Why you should aim for "deep context", and why the price for (some) remote developers is dropping to zero"</simpara>
@@ -50,20 +82,6 @@
 </listitem>
 <listitem>
 <simpara><link xl:href="https://vorpus.org/blog/timeouts-and-cancellation-for-humans/">Timeouts and cancellation for humans</link> why concurrent APIs need the concept of cancellation tokens, and why even this approach has shortcomings.</simpara>
-</listitem>
-</itemizedlist>
-</section>
-<section xml:id="_embedded_programming">
-<title>Embedded Programming</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="https://xtianbetz.github.io/arm-mcu-makefile-guide/">ARM MCU Makefile Guide</link> my own guide to learning MCU development with Linux.</simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="https://rust-embedded.github.io/book/">The Embedded Rust Book</link> Embedded programming with Rust</simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="https://www.youtube.com/watch?v=pj2Rk-ftcWA">Writing an Embedded Rust HAL from scratch</link> In-depth tutorial on building a Hardware Abstraction Layer (HAL) for a new microcontroller (MCU).</simpara>
 </listitem>
 </itemizedlist>
 </section>

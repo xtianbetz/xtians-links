@@ -11,7 +11,23 @@ A curated collection of links to various bits of content.
 
 - https://github.com/xtianbetz?tab=stars[xtianbetz starred repos] my github starred repos
 
-=== Writings on Software Engineering
+=== Version Control
+
+- https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt[Reverting
+  a faulty merge] best explanation I have ever seen for how to properly revert
+  a faulty merge.
+
+=== Build Systems
+
+- http://alfix.gitlab.io/bsd/gnu/coding/2017/01/28/gnu-make-vs-bsd-make.html[GNU Make vs BSD Make] good basic Makefile examples with examples of "automatic" variables that can expand to multiple inputs/outputs.
+
+=== Embedded Programming
+
+- https://xtianbetz.github.io/arm-mcu-makefile-guide/[ARM MCU Makefile Guide] my own guide to learning MCU development with Linux.
+- https://rust-embedded.github.io/book/[The Embedded Rust Book] Embedded programming with Rust
+- https://www.youtube.com/watch?v=pj2Rk-ftcWA[Writing an Embedded Rust HAL from scratch] In-depth tutorial on building a Hardware Abstraction Layer (HAL) for a new microcontroller (MCU).
+
+=== Essays about Software Engineering
 
 - https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson[The Hard Thing About Software Development] "... Why you should aim for "deep context", and why the price for (some) remote developers is dropping to zero"
 - https://blog.pragmaticengineer.com/the-product-minded-engineer/[The Product-Minded Software Engineer] on the qualities of product-focused engineers.
@@ -23,12 +39,6 @@ A curated collection of links to various bits of content.
 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/[Notes on structured concurrency, or: Go statement considered harmful] outlines the problems with managing concurrency and flow control and proposed solution.
 - http://250bpm.com/blog:71[Structured Concurrency] A different but extremely similar take on how to build better concurrency primitivies in programming languages.
 - https://vorpus.org/blog/timeouts-and-cancellation-for-humans/[Timeouts and cancellation for humans] why concurrent APIs need the concept of cancellation tokens, and why even this approach has shortcomings.
-
-=== Embedded Programming
-
-- https://xtianbetz.github.io/arm-mcu-makefile-guide/[ARM MCU Makefile Guide] my own guide to learning MCU development with Linux.
-- https://rust-embedded.github.io/book/[The Embedded Rust Book] Embedded programming with Rust
-- https://www.youtube.com/watch?v=pj2Rk-ftcWA[Writing an Embedded Rust HAL from scratch] In-depth tutorial on building a Hardware Abstraction Layer (HAL) for a new microcontroller (MCU).
 
 === Security
 
