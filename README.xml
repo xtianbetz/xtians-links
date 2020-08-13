@@ -4,7 +4,7 @@
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>Xtian&#8217;s Links</title>
-<date>2020-06-20</date>
+<date>2020-08-13</date>
 </info>
 <simpara>A curated collection of links to various bits of content.</simpara>
 <section xml:id="_business_and_management_theory">
@@ -15,6 +15,14 @@
 </listitem>
 </itemizedlist>
 </section>
+<section xml:id="_databases">
+<title>Databases</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="http://www.redbook.io/">Readings in Database Systems, 5th Edition</link> Classic book on the design of database systems</simpara>
+</listitem>
+</itemizedlist>
+</section>
 <section xml:id="_hardware_and_software_engineering">
 <title>Hardware and Software Engineering</title>
 <itemizedlist>
@@ -22,16 +30,6 @@
 <simpara><link xl:href="https://github.com/xtianbetz?tab=stars">xtianbetz starred repos</link> my github starred repos</simpara>
 </listitem>
 </itemizedlist>
-<section xml:id="_version_control">
-<title>Version Control</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt">Reverting
-a faulty merge</link> best explanation I have ever seen for how to properly revert
-a faulty merge.</simpara>
-</listitem>
-</itemizedlist>
-</section>
 <section xml:id="_build_systems">
 <title>Build Systems</title>
 <itemizedlist>
@@ -90,6 +88,16 @@ a faulty merge.</simpara>
 <itemizedlist>
 <listitem>
 <simpara><link xl:href="https://www.platformsecuritysummit.com/2019/speaker/chen/">Guarding Against Physical Attacks: The Xbox One Story</link> excellent talk describing various cutting-edge software and hardware features of the Xbox One platform that prevent physical attacks.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_version_control">
+<title>Version Control</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt">Reverting
+a faulty merge</link> best explanation I have ever seen for how to properly revert
+a faulty merge.</simpara>
 </listitem>
 </itemizedlist>
 </section>

@@ -7,15 +7,13 @@ A curated collection of links to various bits of content.
 
 - https://apenwarr.ca/log/?m=201909[What do executives do, anyway?] on the role of executives in medium/large companies and building culture in smaller ones.
 
+== Databases
+
+- http://www.redbook.io/[Readings in Database Systems, 5th Edition] Classic book on the design of database systems
+
 == Hardware and Software Engineering
 
 - https://github.com/xtianbetz?tab=stars[xtianbetz starred repos] my github starred repos
-
-=== Version Control
-
-- https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt[Reverting
-  a faulty merge] best explanation I have ever seen for how to properly revert
-  a faulty merge.
 
 === Build Systems
 
@@ -43,5 +41,11 @@ A curated collection of links to various bits of content.
 === Security
 
 - https://www.platformsecuritysummit.com/2019/speaker/chen/[Guarding Against Physical Attacks: The Xbox One Story] excellent talk describing various cutting-edge software and hardware features of the Xbox One platform that prevent physical attacks.
+
+=== Version Control
+
+- https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt[Reverting
+  a faulty merge] best explanation I have ever seen for how to properly revert
+  a faulty merge.
 
 

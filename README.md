@@ -7,19 +7,17 @@ Business and Management Theory
     on the role of executives in medium/large companies and building
     culture in smaller ones.
 
+Databases
+=========
+
+-   [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
+    Classic book on the design of database systems
+
 Hardware and Software Engineering
 =================================
 
 -   [xtianbetz starred repos](https://github.com/xtianbetz?tab=stars) my
     github starred repos
-
-Version Control
----------------
-
--   [Reverting a faulty
-    merge](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt)
-    best explanation I have ever seen for how to properly revert a
-    faulty merge.
 
 Build Systems
 -------------
@@ -88,3 +86,11 @@ Security
     Story](https://www.platformsecuritysummit.com/2019/speaker/chen/)
     excellent talk describing various cutting-edge software and hardware
     features of the Xbox One platform that prevent physical attacks.
+
+Version Control
+---------------
+
+-   [Reverting a faulty
+    merge](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt)
+    best explanation I have ever seen for how to properly revert a
+    faulty merge.
